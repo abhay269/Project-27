@@ -1,5 +1,5 @@
 class Bob {
-    constructor(x,y,r){
+    constructor(x,y,radius){
         
         var options={
             isStatic:false,
